@@ -1,0 +1,649 @@
+2017-06-22 10:14:51,959 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.katlayst:ApparelMagicClient:0.0.1-SNAPSHOT @ C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\pom.xml.
+2017-06-22 10:14:57,464 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:14:57,471 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:14:57,494 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:14:57,567 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:14:57,567 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:15:01,244 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:15:01,255 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:15:01,262 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:15:01,367 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:15:01,368 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:24:45,812 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:24:45,818 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:24:45,833 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:24:45,841 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:24:45,841 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:32:10,369 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:32:10,375 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:32:10,385 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:32:10,397 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:32:10,398 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:34:53,494 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:34:53,500 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:34:53,509 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:34:53,519 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:34:53,519 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:36:16,348 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:36:16,354 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:36:16,362 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:36:16,375 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:36:16,376 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:40:10,254 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:40:10,258 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:40:10,265 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:40:10,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:40:10,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:41:29,136 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:41:29,139 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:41:29,145 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:41:29,155 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:41:29,157 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:48:26,633 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:48:26,640 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:48:26,646 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:48:26,655 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:48:26,655 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:50:15,812 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:15,823 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:50:15,830 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:50:15,838 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:15,838 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:50:32,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:32,548 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:50:32,554 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:50:32,573 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:32,575 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:50:42,364 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:42,370 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:50:42,376 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:50:42,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:50:42,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:53:36,210 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:53:36,213 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:53:36,216 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:53:36,226 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:53:36,226 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:55:39,213 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:55:39,217 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:55:39,224 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:55:39,233 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:55:39,233 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 10:55:46,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:55:46,215 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 10:55:46,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 10:55:46,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 10:55:46,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:00:57,239 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:00:57,244 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:00:57,250 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:00:57,259 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:00:57,259 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:03:51,597 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:03:51,601 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:03:51,607 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:03:51,614 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:03:51,614 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:05:54,113 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:05:54,120 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:05:54,126 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:05:54,133 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:05:54,134 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:08:20,655 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:08:20,661 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:08:20,667 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:08:20,673 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:08:20,673 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:14:42,367 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:14:42,372 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:14:42,377 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:14:42,384 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:14:42,384 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:18:39,204 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:18:39,208 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:18:39,213 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:18:39,220 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:18:39,221 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:19:04,070 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:19:04,073 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:19:04,078 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:19:04,085 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:19:04,086 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:22:05,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:22:05,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:22:05,203 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:22:05,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:22:05,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:24:45,366 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:24:45,369 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:24:45,373 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:24:45,378 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:24:45,378 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:25:19,026 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:25:19,030 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:25:19,037 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:25:19,044 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:25:19,044 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:25:57,017 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:25:57,021 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:25:57,027 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:25:57,032 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:25:57,033 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:26:28,558 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:26:28,561 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:26:28,566 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:26:28,573 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:26:28,573 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:26:43,344 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:26:43,348 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:26:43,352 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:26:43,356 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:26:43,357 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:28:52,002 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:28:52,006 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:28:52,011 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:28:52,016 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:28:52,017 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:28:55,976 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:28:55,986 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:28:55,994 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:28:55,999 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:28:55,999 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:32:18,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:32:18,582 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:32:18,587 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:32:18,594 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:32:18,595 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:36:04,279 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:04,283 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:36:04,288 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:36:04,292 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:04,293 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:36:13,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:13,682 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:36:13,687 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:36:13,693 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:13,694 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:36:21,645 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:21,650 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:36:21,655 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:36:21,660 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:36:21,660 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:43:27,388 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:43:27,392 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:43:27,398 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:43:27,404 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:43:27,404 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:47:25,206 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:25,217 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:47:25,226 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:47:25,240 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:25,241 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:47:28,152 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:28,156 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:47:28,161 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:47:28,165 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:28,165 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:47:45,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:45,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:47:45,634 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:47:45,638 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:47:45,639 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:51:30,507 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:51:30,512 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:51:30,517 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:51:30,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:51:30,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:53:55,344 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:53:55,351 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:53:55,356 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:53:55,363 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:53:55,363 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:54:43,271 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:54:43,276 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:54:43,283 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:54:43,291 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:54:43,291 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:57:15,608 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:57:15,612 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:57:15,616 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:57:15,621 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:57:15,621 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:59:14,766 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:59:14,771 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:59:14,778 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:59:14,787 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:59:14,787 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 11:59:33,157 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:59:33,164 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 11:59:33,171 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 11:59:33,178 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 11:59:33,179 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 12:06:37,419 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 12:06:37,423 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 12:06:37,429 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 12:06:37,434 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 12:06:37,435 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:34:52,722 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:34:52,731 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:34:52,738 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:34:52,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:34:52,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:35:20,152 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:35:20,157 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:35:20,165 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:35:20,171 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:35:20,171 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:35:39,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:35:39,316 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:35:39,323 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:35:39,330 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:35:39,331 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:36:11,522 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:36:11,537 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:36:11,562 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:36:11,580 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:36:11,582 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:37:14,072 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:37:14,077 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:37:14,083 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:37:14,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:37:14,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:37:33,223 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:37:33,229 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:37:33,235 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:37:33,240 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:37:33,241 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:41:56,737 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:41:56,743 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:41:56,748 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:41:56,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:41:56,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:47:12,082 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:47:12,088 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:47:12,093 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:47:12,105 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:47:12,106 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:48:39,450 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:48:39,462 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:48:39,472 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:48:39,482 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:48:39,483 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:49:30,281 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:49:30,284 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:49:30,288 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:49:30,292 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:49:30,292 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 13:50:26,539 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:50:26,545 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 13:50:26,555 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 13:50:26,564 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 13:50:26,564 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:03:05,852 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:03:05,859 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 14:03:05,865 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 14:03:05,872 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:03:05,872 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:15:07,324 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.3.RELEASE/spring-data-commons-1.13.3.RELEASE-sources.jar
+2017-06-22 14:15:07,489 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.3.RELEASE/spring-data-commons-1.13.3.RELEASE-sources.jar
+2017-06-22 14:15:07,877 [Worker-23] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:1.13.3.RELEASE
+2017-06-22 14:15:09,210 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:15:09,211 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:15:09,211 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:15:09,213 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:15:09,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:17:47,643 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:17:47,645 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:17:47,646 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:17:47,647 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:17:47,648 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:18:04,551 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:18:04,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:18:04,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:18:04,555 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:18:04,555 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:19:00,054 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:19:00,054 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:19:00,054 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:19:00,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:19:00,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:20:40,340 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:20:40,341 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:20:40,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:20:40,344 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:20:40,345 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 14:59:57,293 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:59:57,296 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:59:57,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:59:57,300 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 14:59:57,301 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 15:33:08,478 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:33:08,524 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 15:33:08,590 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 15:33:08,597 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:33:08,597 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 15:38:04,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:38:04,244 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 15:38:04,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 15:38:04,275 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:38:04,275 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 15:48:35,877 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:48:35,937 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 15:48:35,939 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 15:48:35,960 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:48:35,961 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 15:50:52,275 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:50:52,276 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 15:50:52,276 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 15:50:52,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:50:52,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 15:59:03,753 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:59:03,753 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 15:59:03,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 15:59:03,758 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 15:59:03,759 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:17:22,601 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:17:22,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:17:22,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:17:22,607 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:17:22,607 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:24:30,996 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:24:30,997 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:24:30,997 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:24:31,002 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:24:31,002 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:29:00,351 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:29:00,351 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:29:00,352 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:29:00,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:29:00,358 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:30:54,727 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:30:54,727 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:30:54,728 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:30:54,731 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:30:54,731 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:36:17,790 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:36:17,790 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:36:17,791 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:36:17,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:36:17,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:41:26,178 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:41:26,178 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:41:26,178 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:41:26,182 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:41:26,182 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:45:11,704 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:45:11,706 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:45:11,708 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:45:11,719 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:45:11,720 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:52:05,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:52:05,306 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:52:05,307 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:52:05,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:52:05,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:55:50,970 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:55:50,971 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:55:50,972 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:55:50,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:55:50,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:59:29,086 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:59:29,086 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:59:29,086 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:59:29,091 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:59:29,091 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 16:59:40,661 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:59:40,661 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 16:59:40,662 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 16:59:40,664 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 16:59:40,664 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:29:51,074 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:29:51,076 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:29:51,080 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:29:51,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:29:51,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:30:59,850 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:30:59,851 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:30:59,854 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:30:59,857 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:30:59,858 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:34:21,611 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:34:21,612 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:34:21,612 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:34:21,616 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:34:21,616 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:45:55,585 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:45:55,586 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:45:55,587 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:45:55,596 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:45:55,596 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:58:36,152 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:58:36,154 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:58:36,155 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:58:36,164 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:58:36,165 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 17:59:17,538 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:59:17,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 17:59:17,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 17:59:17,545 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 17:59:17,545 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 18:07:05,401 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 18:07:05,402 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 18:07:05,402 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 18:07:05,409 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 18:07:05,409 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:21:32,574 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:21:32,587 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:21:32,597 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:21:32,604 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:21:32,604 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:23:24,094 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:23:24,100 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:23:24,108 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:23:24,116 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:23:24,116 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:23:52,665 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:23:52,669 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:23:52,676 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:23:52,681 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:23:52,681 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:32:49,062 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:32:49,063 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:32:49,064 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:32:49,071 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:32:49,071 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:33:11,025 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:33:11,025 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:33:11,026 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:33:11,029 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:33:11,030 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:35:46,301 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:35:46,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:35:46,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:35:46,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:35:46,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:40:15,423 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:40:15,429 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:40:15,434 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:40:15,442 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:40:15,442 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:42:13,189 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:42:13,195 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:42:13,204 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:42:13,211 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:42:13,211 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:45:09,514 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:45:09,518 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:45:09,524 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:45:09,529 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:45:09,530 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:46:25,867 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:46:25,870 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:46:25,875 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:46:25,878 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:46:25,878 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:55:35,160 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:55:35,167 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:55:35,172 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:55:35,179 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:55:35,179 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:56:29,666 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:56:29,667 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:56:29,668 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:56:29,681 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:56:29,681 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:57:26,079 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:57:26,082 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:57:26,087 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:57:26,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:57:26,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:58:17,613 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:58:17,617 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:58:17,622 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:58:17,627 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:58:17,627 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 22:59:08,206 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:59:08,210 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 22:59:08,216 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 22:59:08,220 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 22:59:08,220 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:02:21,348 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:02:21,352 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:02:21,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:02:21,361 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:02:21,361 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:03:16,124 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:03:16,130 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:03:16,137 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:03:16,144 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:03:16,145 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:10:26,646 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:10:26,647 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:10:26,648 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:10:26,654 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:10:26,655 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:18:46,443 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:18:46,448 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:18:46,453 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:18:46,461 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:18:46,461 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:19:38,944 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:19:38,952 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:19:38,960 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:19:38,965 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:19:38,965 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:31:35,584 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:31:35,588 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:31:35,592 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:31:35,596 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:31:35,597 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:32:09,207 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:32:09,211 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:32:09,217 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:32:09,221 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:32:09,222 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:34:39,399 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:34:39,404 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:34:39,410 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:34:39,416 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:34:39,416 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:34:56,158 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:34:56,162 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:34:56,166 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:34:56,171 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:34:56,171 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:35:16,146 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:35:16,149 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:35:16,154 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:35:16,160 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:35:16,160 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:35:57,537 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:35:57,541 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:35:57,546 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:35:57,552 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:35:57,552 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:36:20,779 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:36:20,785 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:36:20,792 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:36:20,800 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:36:20,801 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:36:25,557 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:36:25,563 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:36:25,570 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:36:25,576 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:36:25,576 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:46:40,383 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:46:40,393 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:46:40,402 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:46:40,412 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:46:40,413 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:48:51,039 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:48:51,040 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:48:51,040 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:48:51,047 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:48:51,047 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:49:40,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:49:40,531 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:49:40,537 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-22 23:49:40,542 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:49:40,542 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:51:47,253 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:51:47,254 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:51:47,254 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:51:47,260 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:51:47,260 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:52:42,046 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:52:42,047 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:52:42,047 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:52:42,050 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:52:42,051 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:53:48,746 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:53:48,747 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:53:48,748 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:53:48,754 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:53:48,755 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:54:53,889 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:54:53,890 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:54:53,891 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:54:53,900 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:54:53,901 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:55:47,856 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:55:47,857 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:55:47,858 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:55:47,867 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:55:47,867 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-22 23:56:32,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:56:32,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 23:56:32,793 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-22 23:56:32,800 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 23:56:32,800 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:00:11,851 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:00:11,855 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:00:11,859 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:00:11,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:00:11,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:00:48,819 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:00:48,821 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:00:48,825 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:00:48,828 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:00:48,828 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:01:18,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:01:18,478 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:01:18,482 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:01:18,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:01:18,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:01:49,204 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:01:49,208 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:01:49,259 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:01:49,263 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:01:49,263 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:07:14,601 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:07:14,605 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:07:14,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:07:14,615 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:07:14,616 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources
+2017-06-23 00:15:45,614 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:15:45,623 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-23 00:15:45,631 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-06-23 00:15:45,641 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-23 00:15:45,641 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sreddy\git\Apparel-Magic-API\ApparelMagicAPI\src\test\resources

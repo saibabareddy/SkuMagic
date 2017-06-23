@@ -1,0 +1,62 @@
+package com.katalyst.controller;
+
+import java.sql.Date;
+import java.time.LocalDate;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import com.katalyst.dao.SkumagicconsoleDao;
+import com.katalyst.model.Skumagicconsole;
+import com.katalyst.service.ApparelMagicWSService;
+
+//@Controller
+public class SkumagiconsoleController {
+	private static final Logger logger = LoggerFactory.getLogger(ApparelMagicWSService.class);
+	
+	   private static SkumagiconsoleController instance = null;
+	   protected SkumagiconsoleController() {
+	      // Exists only to defeat instantiation.
+	   }
+	   public static SkumagiconsoleController getInstance() {
+	      if(instance == null) {
+	         instance = new SkumagiconsoleController();
+	      }
+	      return instance;
+	   }
+
+	  // ------------------------
+	  // PUBLIC METHODS
+	  // ------------------------
+	  //@RequestMapping("/insert")
+	  //@ResponseBody
+	  public String insert(int product_id,int status, String response) {
+	    Skumagicconsole skumagicconsole = null;
+	    try {
+	    	Date dt = null;
+	    	skumagicconsole = new Skumagicconsole(product_id,dt, status, response);
+	    	skumagicconsoleDao.save(skumagicconsole);
+	    }
+	    catch (Exception ex) {
+	    ex.printStackTrace();
+	      return "Error Inserting";
+	    
+	    }
+	    logger.debug("Inserted succesfully");
+		return "Inserted Sucessfully";
+	  }
+
+	  
+
+	  // ------------------------
+	  // PRIVATE FIELDS
+	  // ------------------------
+
+	  //@Autowired
+	  private SkumagicconsoleDao skumagicconsoleDao;
+
+}
